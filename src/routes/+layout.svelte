@@ -2,4 +2,6 @@
 	import '../app.css';
 </script>
 
-<slot />
+<main class="h-full bg-gradient-to-br from-slate-900 to-amber-950">
+	<slot />
+</main>
